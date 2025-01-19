@@ -1,3 +1,6 @@
 
 /libnet/.vs/libnet/v17
 *.vsidx
+/libnet/libnet/x64
+/libnet/libnet_tests/x64
+/libnet/x64

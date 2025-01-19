@@ -20,8 +20,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="netlib.h">
-      <Filter>Исходные файлы</Filter>
+    <ClInclude Include="libnet.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
